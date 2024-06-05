@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  direction: rtl;
+}
+
+.app {
+  width: 100vw;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+}
+
+.main {
+  /* width: 100%; */
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.select {
+  outline: red;
+}
+
+hr {
+  opacity: .5;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  /* width: 100vw; */
+  overflow: hidden;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 1%;
+
+  img {
+    width: 230px;
+    height: 150px;
+    object-fit: cover;
+  }
+}
