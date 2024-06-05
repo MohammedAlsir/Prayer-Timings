@@ -10,9 +10,10 @@ Currently, two official plugins are available:
 
 <!-- > live demo :  [link](https://res-res.netlify.app/) -->
 
+# Prayer-time
+
+
 > Do not forget :  `npm run install`
 
 
-![image](src/assets/readme.png)"# Prayer-time"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/MohammedAlsir/Prayer-time.git git push -u origin main
-"# Prayer-time" 
-# Prayer-time
+![image](src/assets/readme.png)
